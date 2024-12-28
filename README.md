@@ -12,12 +12,20 @@ Customers can receive coupons via mobile phone while driving through town to att
 ***The 5 coupon types have average acceptance rates ranging from 41% to 74% as shown below: 
 ![Barplot of coupon types and their average acceptance rates](https://github.com/lvhaohan59/jingprojects/blob/main/images/barplot_accept_rate.png) 
 
-## Insights
+## Findings 
+### Bar Coupons
+1. Customers that have been to bar more than 4 times a month have acceptance rate of 76.9%, vs 37.1% for others.
+2. Customers that have atleast 1 bar visit and over age of 25 have acceptance rate of 54.6%, vs 30.7% for others.
+3. Customers that have atleast 1 bar visit, not traveling with kids and occupation other than farming, fishing or forestry have acceptance rate of 59.49%, vs 20.4% for others.
+4. Customers that have atleast 1 bar visit, not traveling with kids and were not widowed have acceptance rate of 71.3%,
+   vs 72.2% for customers that have atleast 1 bar visit and under the age of 30,
+   vs 45.4% for customers who goes to cheap restaurants more than 4 times a month and has income less than 50K.
+### Coffee House Coupons
+
+
+## Actionable Insights and Recommendations
 Xyz
 
 
-To explore the data, you will utilize your knowledge of pandas and Python to create statistical summaries demonstrating differences in those who accepted and rejected the coupon. Utilize the Matplotlib and Seaborn libraries to create a visualization using Python. Ensure that your findings are clearly stated in a separate section alongside actionable items and recommendations.
-
-Your repository should also include a READMe file containing a brief nontechnical report that highlights the differences between customers who did and did not accept the coupons.
 
 

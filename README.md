@@ -3,13 +3,14 @@
 ** Jupyter Notebook with Code [here:](https://github.com/lvhaohan59/jingprojects/blob/main/coupon_acceptance_analysis.ipynb) 
 
 ## Objective
-Customers can receive coupons via mobile phone while driving through town to attract business to local businesses. This analysis is conducted to gain insights on the customer characteristics that tend to accept these couponsfor bars and coffee businesses. The insights can be used to target specific customers to increase chances of coupon acceptance, and increase potential revenue to these businesses. 
+Customers can receive coupons via mobile phone while driving through town to attract business to local businesses. This analysis is conducted to gain insights on the customer characteristics that tend to accept these couponsfor bars and coffee businesses. The insights can be used to target specific customers to increase chances of coupon acceptance, leading to potentially increased revenue to these two type of businesses. 
 
-## Data Analysis
-The coupon dataset contains 5 different types of coupons that were sent to customers: 
-![image of a barplot showing different coupon types and counts](https://github.com/lvhaohan59/jingprojects/blob/main/images/coupon_barplot.png)
+## Data
+***The coupon dataset contains 5 different types of coupons that were sent to customers, 
+![Barplot of coupon types and their counts](https://github.com/lvhaohan59/jingprojects/blob/main/images/coupon_barplot.png) 
 
-
+***The 5 coupon types have average acceptance rates ranging from 41% to 74% as shown below: 
+![Barplot of coupon types and their average acceptance rates](https://github.com/lvhaohan59/jingprojects/blob/main/images/barplot_accept_rate.png) 
 
 ## Insights
 Xyz

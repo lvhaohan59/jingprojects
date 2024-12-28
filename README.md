@@ -21,7 +21,9 @@ Customers can receive coupons via mobile phone while driving through town to att
    vs 72.2% for customers that have atleast 1 bar visit and under the age of 30,
    vs 45.4% for customers who goes to cheap restaurants more than 4 times a month and has income less than 50K.
 ### Coffee House Coupons
-
+1. Customers that have been to coffee shop atleast 1 times per month and has income level lower than 50K have acceptance rate of 69.8%, vs 43.1% for others.
+2. Customers that have atleast 1 coffee shop visit and has atleast some college or higher education have acceptance rate of 65.5%, vs 37.3% for others.
+3. Customers that have atleast 1 coffee shop visit and are not driving home have acceptance rate of 69.5%, vs 38.4% for others. 
 
 ## Actionable Insights and Recommendations
 Xyz

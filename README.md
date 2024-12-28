@@ -30,8 +30,10 @@ The coupon dataset contains 5 different types of coupons that were sent to custo
 2. Customers that have atleast 1 coffee shop visit and has atleast some college or higher education have acceptance rate of 65.5%, vs 37.3% for others.
 3. Customers that have atleast 1 coffee shop visit and are not driving home have acceptance rate of 69.5%, vs 38.4% for others. 
 
-## Actionable Insights and Recommendations
-
+## Actionable Insights
+Given the average customer acceptance rate for Bar and Coffee coupons are 41.0% and 50.0% respectively, there are opportunities to imprve these acceptance rates by targeting customers with specific characteristics: 
+1. For Bar coupons: customers that are frequent bar patrons, not driving with kids, have income level higher than 50K, and under the age of 30 have significantly higher acceptance rate than average.
+2. For Coffee coupons: customers that are past coffee shop patrons, with income level lower than 50K, have college or higher education and are not driving home have significantly higher acceptance rate than average.  
 
 
 

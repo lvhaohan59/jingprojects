@@ -1,15 +1,20 @@
 # Data Driven Insights for Coupon Acceptance 
-** Dataset explored [here:](https://github.com/lvhaohan59/jingprojects/blob/main/data/coupons.csv)
-** Jupyter Notebook with Code [here:](https://github.com/lvhaohan59/jingprojects/blob/main/coupon_acceptance_analysis.ipynb) 
+Dataset explored [here:](https://github.com/lvhaohan59/jingprojects/blob/main/data/coupons.csv)
+Jupyter Notebook with Code [here:](https://github.com/lvhaohan59/jingprojects/blob/main/coupon_acceptance_analysis.ipynb) 
 
 ## Objective
 Customers can receive coupons via mobile phone while driving through town to attract business to local businesses. This analysis is conducted to gain insights on the customer characteristics that tend to accept these couponsfor bars and coffee businesses. The insights can be used to target specific customers to increase chances of coupon acceptance, leading to potentially increased revenue to these two type of businesses. 
 
 ## Data
-***The coupon dataset contains 5 different types of coupons that were sent to customers, 
+The coupon dataset contains 5 different types of coupons that were sent to customers. These types include:
+**Bar**: Coupon for businesses that serves alcohol 
+**Coffee House**: Coupon for businesses that serves coffee
+**Carry out & Take away**: Coupon for restaurants that provides food for takeout 
+**Restaurant(<20)**: Coupon for restaurants that cost less than $20 per person per meal
+**Restaurant(20-50)**: Coupon for restaurants that cost range from $20 to $50 per person per meal
 ![Barplot of coupon types and their counts](https://github.com/lvhaohan59/jingprojects/blob/main/images/coupon_barplot.png) 
 
-***The 5 coupon types have average acceptance rates ranging from 41% to 74% as shown below: 
+***Each of the 5 coupon types have average customer acceptance rates ranging from 41% to 74% as shown below: 
 ![Barplot of coupon types and their average acceptance rates](https://github.com/lvhaohan59/jingprojects/blob/main/images/barplot_accept_rate.png) 
 
 ## Findings 
@@ -26,7 +31,7 @@ Customers can receive coupons via mobile phone while driving through town to att
 3. Customers that have atleast 1 coffee shop visit and are not driving home have acceptance rate of 69.5%, vs 38.4% for others. 
 
 ## Actionable Insights and Recommendations
-Xyz
+
 
 
 
